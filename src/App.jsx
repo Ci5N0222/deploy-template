@@ -1,12 +1,15 @@
 import './App.css';
-import Button1 from './components/post-css/Button1';
-import Button2 from './components/post-css/Button2';
+import List from './components/List';
+
+/**
+ * Todo app
+ * 1. List
+ */
 
 function App() {
   return (
     <>
-      <Button1 />
-      <Button2 />
+      <List />
     </>
   );
 }
