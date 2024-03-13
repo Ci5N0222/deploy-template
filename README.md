@@ -4,13 +4,13 @@ React Project
 배포: https://sionnoh-todo.netlify.app
 
 목적:
-    Todo list를 작성하여 목표 달성!!
+    Todo list를 작성하여 목표 작성
 
 기능:
-    - localStorage를 사용하여 데이터 저장
-    - Todo 추가, 제거
-    - Nav bar를 이용한 모든 목록, 진행중, 완료된 목록을 선택하여 볼 수 있음
-    - 다크모드
+- localStorage를 사용하여 데이터 저장
+- Todo 추가, 제거
+- Nav bar를 이용한 모든 목록, 진행중, 완료된 목록을 선택하여 볼 수 있음
+- 다크모드
 
 ## Library:
 PostCSS: css 관리
