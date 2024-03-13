@@ -1,5 +1,5 @@
 import './App.css';
-import List from './components/List';
+import TodoList from './components/TodoList/TodoList';
 
 /**
  * Todo app
@@ -9,7 +9,7 @@ import List from './components/List';
 function App() {
   return (
     <>
-      <List />
+      <TodoList />
     </>
   );
 }
