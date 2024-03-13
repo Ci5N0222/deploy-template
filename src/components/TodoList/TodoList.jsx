@@ -32,7 +32,7 @@ export default function TodoList({ filter }) {
 }
 
 function getFilterItems(todos, filter) {
-    if(filter == 'all'){
+    if(filter === 'all'){
         return todos;
     }
     return todos.filter(todo=> todo.status === filter);
