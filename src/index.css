@@ -30,13 +30,6 @@ body {
   font-size: 1.2rem;
   accent-color: var(--color-accent);
   background: rgb(51,75,90);
-  background: linear-gradient(
-    90deg, rgba(51,75,90,1) 14%, 
-    rgba(2,0,36,1) 50%, 
-    rgba(75,111,116,1) 100%, 
-    rgba(56,55,56,1) 100%
-  );
-
 }
 
 #root {

@@ -4,11 +4,6 @@ import Header from './components/Header/Header';
 import TodoList from './components/TodoList/TodoList';
 import { DarkModeProvider } from './context/DarkModeContext';
 
-/**
- * Todo app
- * 1. List
- */
-
 const filters = ['all', 'active', 'completed'];
 
 function App() {
