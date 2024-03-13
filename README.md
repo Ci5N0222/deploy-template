@@ -11,6 +11,13 @@
 
 
 ## react-icons
+### icons를 사용하기 위한 라이브러리
 ### https://react-icons.github.io/react-icons/
-### `$ npm install react-icons --save`
+### `$ yarn add react-icons` 
 ### `import { FaBeer } from 'react-icons/fa';`
+
+
+## uuid
+### 고유 아이디를 만들기 위한 라이브러리
+### `$ yarn add uuid`
+### `import {v4 as uuidv4} from 'uuid';`
